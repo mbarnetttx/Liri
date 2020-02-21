@@ -1,1 +1,22 @@
-This 
+This app was developed using:
+
+Javascript & node.js  
+
+
+How to use:
+
+To use this app, in the console navigate to the file, type:
+
+node filename movie/song/concert input
+
+
+Examples:
+
+node liri.js song Zombie
+node liri.js concert Disturbed
+node liri.js movie Inception
+
+
+
+
+
